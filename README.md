@@ -1,1 +1,1 @@
-FreeCodeCamp Project to learn specific HTML5 Tags + CSS
+freeCodeCamp Project to learn specific HTML5 Tags + CSS
